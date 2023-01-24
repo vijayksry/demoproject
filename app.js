@@ -1,5 +1,5 @@
 
-// Budget Controller
+// Controller
 var budgetController = (function(UICtrl) {
 
 	var Expense = function(id, description, value) {
